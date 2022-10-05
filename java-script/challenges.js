@@ -1,7 +1,7 @@
 var document;
 var scores, roundScores, activePlayer,gamePlaying;
 
- 
+init();  
 
 var lastDice;
 
